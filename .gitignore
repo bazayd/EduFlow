@@ -1,0 +1,10 @@
+.env
+
+# anything sqlite related
+*.sqlite3
+
+#venv 
+venv/
+
+__pycache__/
+*.py[cod]
